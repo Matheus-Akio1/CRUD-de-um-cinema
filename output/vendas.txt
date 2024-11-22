@@ -1,0 +1,7 @@
+Pedido #1
+Pagamento a vista: R$60.00
+----------------------
+
+Pedido #1:
+Filme: Planeta dos Macacos | Quantidade: 2 | Subtotal: R$60.00
+Total do Pedido: R$60.00
